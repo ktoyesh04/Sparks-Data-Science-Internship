@@ -1,1 +1,1 @@
-## The Sparks Foundation - Data Sciecne Internship
+## The Sparks Foundation - Data Science Internship
